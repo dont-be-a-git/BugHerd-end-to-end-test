@@ -1,0 +1,5 @@
+<svg width="400" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="200" fill="#9b59b6"/>
+  <text x="200" y="100" font-family="Arial" font-size="18" fill="white" text-anchor="middle">Cloud Services</text>
+  <text x="200" y="125" font-family="Arial" font-size="12" fill="white" text-anchor="middle">Scalable Infrastructure</text>
+</svg>

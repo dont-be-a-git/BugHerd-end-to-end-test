@@ -1,0 +1,5 @@
+<svg width="500" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="500" height="300" fill="#e8f4f8"/>
+  <text x="250" y="150" font-family="Arial" font-size="20" fill="#34495e" text-anchor="middle">Our Team</text>
+  <text x="250" y="180" font-family="Arial" font-size="14" fill="#7f8c8d" text-anchor="middle">Professional Team Photo</text>
+</svg>

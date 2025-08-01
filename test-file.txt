@@ -1,0 +1,4 @@
+This file was created by Claude Code via GitHub API.
+
+Created on: 2025-08-01
+Purpose: Testing end-to-end functionality from BugHerd tasks to GitHub file creation.
